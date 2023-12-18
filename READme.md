@@ -1,6 +1,6 @@
 ## Hi! 👋 I'm Mohan Venkata Siva Sankar Villuri
 
-#### An ambitious and intuitive Front End Developer with over 2 years of hands-on experience in designing, developing, and implementing applications and solutions using JavaScript and ReactJS. My passion lies in creating engaging and user-friendly web experiences.
+#### An ambitious and intuitive Front End Developer with over 2+ years of hands-on experience in designing, developing, and implementing applications and solutions using JavaScript and ReactJS. My passion lies in creating engaging and user-friendly web experiences.
 
 - 🌱 _Currently, I'm expanding my skill set by diving into Typescript and node.js._
 
