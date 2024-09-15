@@ -10,7 +10,7 @@
 
 - 📫 _You can contact me via email at mohan.or.sankar@gmail.com._
 
-- 📄 _Check for my [resume](https://drive.google.com/file/d/19iQBE_lnWoQaedAFLhuJ7PxmNg_puafE/view?usp=sharing)._
+- 📄 _Check for my [resume](https://drive.google.com/file/d/1gcQ9hfPerEyOyKFGnbbUY1wcWlTbbJmX/view?usp=sharing)._
 
 - 💻 _If you're interested in learning more about my experiences and projects, you can find on [my portfolio](https://mohan-villuri-portfolio.netlify.app/)_.
 
